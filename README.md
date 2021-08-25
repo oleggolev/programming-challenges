@@ -1,3 +1,5 @@
+# Programming Challenges
+Demystifying the problem solving process one challenge at a time.
 ## Structure
 This repository houses many folders, one for each programming challenge. Each folder contains:
 1. `README.md` with a problem statement and a pseudocode solution
